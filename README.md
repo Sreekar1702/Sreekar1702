@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sreekar</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Backend developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreekar1702&label=Profile%20views&color=0e75b6&style=flat" alt="sreekar1702" /> </p>
 
 - 🌱 I’m currently learning **SpringBoot, MicroServices**
 
-- 💬 Ask me about **SpringBoot, MicroServices, RestAPI**
+- 💬 Ask me about **Java, SpringBoot, MicroServices, RestAPI**
 
 - 📫 How to reach me **sreekarsrs@gmail.com**
 
