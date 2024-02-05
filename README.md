@@ -3,9 +3,9 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreekar1702&label=Profile%20views&color=0e75b6&style=flat" alt="sreekar1702" /> </p>
 
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently learning **Kafka**
 
-- 💬 Ask me about **Java, SpringBoot, MicroServices, RestAPI**
+- 💬 Ask me about **Java, SpringBoot, MicroServices, RestAPI, System Design**
 
 - 📫 How to reach me **sreekarsrs@gmail.com**
 
